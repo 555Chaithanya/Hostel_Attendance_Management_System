@@ -1,8 +1,8 @@
 # Hostel Management Application
 
-Created using MERN Stack with Redux
+Created using MERN Stack
 
-## Installation
+## Installation wrt server and frontend :
 
 ```
 npm install
@@ -18,23 +18,18 @@ MONGO_URI= Mongo Uri
 JWT_SECRET= JWT Key
 ```
 
-## Features
+## Functionalities of this project:
 
-- [x] Register/Login Screens
-- [x] Student Details
-- [x] Add Student
-- [x] Edit/Delete Student Details
-- [x] Update Student Where abouts
-- [x] Can take Attendance Daily
-- [x] Dispaly Attendance Details
-- [x] Download Csv file of attendance
-- [x] Delete Attendance of previous n days
-- [x] Control User List
-- [x] Edit User Admin Status
-- [x] Data Controlled by only Admins
+- [1] Register/Login Screens
+- [2] Student Details
+- [3] Add Student
+- [4] Edit/Delete Student Details
+- [5] Update Student Where abouts
+- [6] Can take Attendance Daily
+- [7] Dispaly Attendance Details
+- [8] Download Csv file of attendance
+- [9] Delete Attendance of previous n days
+- [10] Control User List
+- [11] Edit User Admin Status
+- [12] Data Controlled by only Admins
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
